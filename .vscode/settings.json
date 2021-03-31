@@ -1,0 +1,9 @@
+{
+    "files.exclude": {
+        "**/.css": true,
+        "**/.json": true,
+        "**/.scss": true,
+        "**/bower_components\": true": true,
+        "**/node_modules\": true": true
+    }
+}
